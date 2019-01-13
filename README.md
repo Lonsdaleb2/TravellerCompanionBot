@@ -3,7 +3,7 @@ The public page for the TC discord bot.
 
 
 Current commands:
-
+```
 Homebrew:
   re-entry/orbit !entry / !orbit A B C D :: inspired by T5
   
@@ -18,3 +18,4 @@ Universal:
   system map     !map - create or call a map
   Travel time    !t - Journey time in space
   Random NPC     !npc - generate a random NPC for inspiration
+```
