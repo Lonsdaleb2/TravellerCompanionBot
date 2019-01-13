@@ -8,7 +8,7 @@ Homebrew:
   re-entry/orbit !entry / !orbit A B C D :: inspired by T5
   
 MGT2e:
-  UWP Translator !uwp - Translates UWP
+	UWP Translator !uwp - Translates UWP
   Selling goods  !sell - Selling price of goods
   Buying goods   !buy - What trade goods are available
   
